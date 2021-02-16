@@ -1,4 +1,4 @@
-# storming-code
+# Storming Code
 A vim theme based on blue colors and inspired in Brandon Sanderson's Stormlight Archive
 
 This theme has many features:
